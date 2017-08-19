@@ -1,0 +1,13 @@
+{
+  "name": "weather-callback",
+  "version": "1.0.0",
+  "description": "weather callback app",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nyanco-rock",
+  "license": "MIT"
+}
